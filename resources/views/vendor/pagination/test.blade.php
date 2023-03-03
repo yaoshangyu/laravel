@@ -1,0 +1,1 @@
+<div>共{{ $paginator->total() }}页</div>
